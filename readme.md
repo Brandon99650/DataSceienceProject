@@ -11,6 +11,10 @@ implement some dimension reduction method (based on Numpy):
 - LDA
 - Random Projection
 
+## PCA_vs_SVD
+- implement PCA and SVD and comprision them 
+- 比較資料降維前後對k-means分群的影響。
+
 ## Sampling
 implement the sampling algorithm (based on Scipy, Numpy)
 - Reject sampling
